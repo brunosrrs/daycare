@@ -288,3 +288,31 @@ body {
 .slide{ 
   margin-top: 30px;
 }
+.display-1{
+  text-shadow: 0 2px 20px #000000
+
+}
+.display-2{
+  text-shadow: 0 2px 20px #000000
+}
+#custom-search-input{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h1{
+  font-size: 4vw;
+  text-transform: uppercase;
+}
+h2{
+  font-size: 1.5vw;
+  text-transform: uppercase;
+}
+@media screen and (max-width: 32rem) {
+  h1 {
+    font-size: 20vw;
+  }
+  h2{
+    font-size: 10vw;
+  }
+  
+}
