@@ -286,14 +286,13 @@ body {
 }
 
 .slide{ 
-  margin-top: 30px;
 }
 .display-1{
-  text-shadow: 0 2px 20px #000000
-
 }
 .display-2{
-  text-shadow: 0 2px 20px #000000
+}
+#home-banner{
+  padding: 0;
 }
 #custom-search-input{
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
